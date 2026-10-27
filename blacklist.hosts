@@ -24,3 +24,11 @@
 # General Analytics Service
 # ------------------------------------------------------------
 0.0.0.0 api.vrcanalytics.com
+
+# ------------------------------------------------------------
+# OSF-017 // Obsidian Spire
+# Discovered in this world
+# https://vrchat.com/home/world/wrld_c1de9774-b99d-403b-a68d-8a6f2ba87287
+# IP geolocation lookup service (IPv4/IPv6 location and network details)
+# ------------------------------------------------------------
+0.0.0.0 ipapi.co
